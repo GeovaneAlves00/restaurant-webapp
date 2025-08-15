@@ -13,7 +13,7 @@ import LoginPage from './pages/LoginPage';
 import AdminLayout from './pages/admin/AdminLayout';
 import AdminDashboard from './pages/admin/AdminDashboard';
 import AdminNovoPrato from './pages/admin/AdminNovoPrato';
-import MenuPageAdmin from './pages/admin/menuPageAdmin';
+import MenuPageAdmin from "./pages/admin/MenuPageAdmin";
 
 import PublicMenu from './pages/PublicMenu';
 
